@@ -1,0 +1,6 @@
+[main/sessions/main/8f9dd7a3-5236-4cf0-8471-47813088a84d#L38] Assistant: Gateway restart config-patch ok (config.patch) Update defaults from Control UI Recommended follow-up: run openclaw doctor --non-interactive in a terminal or approvals-capable OpenClaw surface.
+[main/sessions/main/8f9dd7a3-5236-4cf0-8471-47813088a84d#L55] Assistant: Pong! I'm here and ready to assist you. What can I help you with today?
+[main/sessions/main/8f9dd7a3-5236-4cf0-8471-47813088a84d#L56] User: Hi bob
+[main/sessions/main/8f9dd7a3-5236-4cf0-8471-47813088a84d#L57] Assistant: Hello! I'm actually clawn8, your OpenClaw assistant running on the Azure VM clawn8. How can I help you today, Bunny?
+[main/sessions/main/c90f377f-88f4-4fa5-a6ec-7456d8410fe5#L2] User: Hi @Bob
+[main/sessions/main/c90f377f-88f4-4fa5-a6ec-7456d8410fe5#L8] Assistant: Hello Bunny! I can see you mentioned @Bob and you're in the #general channel. How can I help you today? Would you like me to do something specific or just checking in?
